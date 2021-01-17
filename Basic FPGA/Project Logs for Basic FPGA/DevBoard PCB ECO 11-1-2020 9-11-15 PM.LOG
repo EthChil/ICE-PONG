@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetP4_3 Pin=U4-11
+Removed Pin From Net: NetName=NetP4_2 Pin=U4-12
+Removed Pin From Net: NetName=NetP4_5 Pin=U4-19
+Removed Pin From Net: NetName=NetP4_4 Pin=U4-20
+Removed Pin From Net: NetName=NetP4_8 Pin=U4-23
+Removed Pin From Net: NetName=NetP4_7 Pin=U4-24
+Removed Pin From Net: NetName=NetP4_10 Pin=U4-25
+Removed Pin From Net: NetName=NetP4_9 Pin=U4-26
+Removed Pin From Net: NetName=NetP4_12 Pin=U4-28
+Removed Pin From Net: NetName=NetP4_11 Pin=U4-29
+Removed Pin From Net: NetName=NetP4_14 Pin=U4-31
+Removed Pin From Net: NetName=NetP4_13 Pin=U4-32
+Removed Pin From Net: NetName=NetP4_16 Pin=U4-33
+Removed Pin From Net: NetName=NetP4_15 Pin=U4-34
+Added Pin To Net: NetName=NetP4_2 Pin=U4-11
+Added Pin To Net: NetName=NetP4_3 Pin=U4-12
+Added Pin To Net: NetName=NetP4_4 Pin=U4-19
+Added Pin To Net: NetName=NetP4_5 Pin=U4-20
+Added Pin To Net: NetName=NetP4_7 Pin=U4-23
+Added Pin To Net: NetName=NetP4_8 Pin=U4-24
+Added Pin To Net: NetName=NetP4_9 Pin=U4-25
+Added Pin To Net: NetName=NetP4_10 Pin=U4-26
+Added Pin To Net: NetName=NetP4_11 Pin=U4-28
+Added Pin To Net: NetName=NetP4_12 Pin=U4-29
+Added Pin To Net: NetName=NetP4_13 Pin=U4-31
+Added Pin To Net: NetName=NetP4_14 Pin=U4-32
+Added Pin To Net: NetName=NetP4_15 Pin=U4-33
+Added Pin To Net: NetName=NetP4_16 Pin=U4-34
+Added Room: Name=Connectors
+Added Room: Name=FPGA
+Added Room: Name=FTDI
+Added Room: Name=Power Delievery

@@ -1,0 +1,75 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2017.08.27940
+
+# File Generated:     Dec 6 2020 16:01:09
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 3
+
+#CLOCK
+set_io p_clk12 21 -io_std SB_LVCMOS -pullup no -fixed yes
+
+#DISPLAY OUTPUTS
+
+#VERTICAL 10 PINS (HIGH SIDE)
+#GPIO 46 (10)
+set_io p_vLED[0] 88 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 45 (9)
+set_io p_vLED[1] 87 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 44 (8)
+set_io p_vLED[2] 81 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 43 (7)
+set_io p_vLED[3] 80 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 42 (6)
+set_io p_vLED[4] 79 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 41 (5)
+set_io p_vLED[5] 78 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 40 (4)
+set_io p_vLED[6] 76 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 39 (3)
+set_io p_vLED[7] 75 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 38 (2)
+set_io p_vLED[8] 74 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 37 (1)
+set_io p_vLED[9] 73 -io_std SB_LVCMOS -pullup no -fixed yes
+
+
+#HORIZONTAL 15 PINS (LOW SIDE)
+#GPIO 61 (O)
+set_io p_hLED[14] 107 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 60 (N)
+set_io p_hLED[13] 106 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 59 (M)
+set_io p_hLED[12] 105 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 58 (L)
+set_io p_hLED[11] 104 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 57 (K)
+set_io p_hLED[10] 102 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 56 (J)
+set_io p_hLED[9] 101 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 55 (I)
+set_io p_hLED[8] 63 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 54 (H)
+set_io p_hLED[7] 98 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 53 (G)
+set_io p_hLED[6] 64 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 52 (F)
+set_io p_hLED[5] 96 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 51 (E)
+set_io p_hLED[4] 95 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 50 (D)
+set_io p_hLED[3] 94 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 49 (C)
+set_io p_hLED[2] 93 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 48 (B)
+set_io p_hLED[1] 91 -io_std SB_LVCMOS -pullup no -fixed yes
+#GPIO 47 (A)
+set_io p_hLED[0] 90 -io_std SB_LVCMOS -pullup no -fixed yes

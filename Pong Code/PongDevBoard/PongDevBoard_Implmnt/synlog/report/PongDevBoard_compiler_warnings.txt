@@ -1,0 +1,19 @@
+@W: CG532 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":22:1:22:7|Within an initial block, only Verilog force statements and memory $readmemh/$readmemb initialization statements are recognized, and all other content is ignored.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL138 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Removing register 'p_hLED' because it is only assigned 0 or its original value.
+@W: CL260 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Pruning register bit 1 of ballYVel[1:0]. If this is not the intended behavior, drive the input with valid values, or an input from the top level.
+@W: CL260 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Pruning register bit 1 of ballXVel[1:0]. If this is not the intended behavior, drive the input with valid values, or an input from the top level.
+

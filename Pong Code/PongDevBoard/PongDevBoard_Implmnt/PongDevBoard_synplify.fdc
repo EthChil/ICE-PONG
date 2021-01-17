@@ -1,0 +1,10 @@
+
+#1001 : create_clock -name clk12 -period 83.333 -waveform {0 41.667} [get_ports p_clk12]
+# line 1 in c:/users/ethan/documents/grabcad/altium projs/basic fpga/code/cons.sdc
+
+create_clock -name {clk12} -period {83.333} -waveform {0.000 41.667} [get_ports {p_clk12}]
+
+#1002 : set_clock_groups -asynchronous -group clk12
+# line 3 in c:/users/ethan/documents/grabcad/altium projs/basic fpga/code/cons.sdc
+
+set_clock_groups -asynchronous -group [get_clocks {clk12}]

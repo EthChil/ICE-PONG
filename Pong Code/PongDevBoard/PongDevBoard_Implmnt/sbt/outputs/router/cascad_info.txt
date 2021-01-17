@@ -1,0 +1,8 @@
+[VIC]
+N_57_i_cascade_=ltout:in1
+N_58_cascade_=ltout:in0
+N_76_cascade_=ltout:in0
+ballXVel12_10_cascade_=ltout:in0
+ballXVel12_14_cascade_=ltout:in3
+ballXVel_s_1_0_0_cascade_=ltout:in2
+ballYVel_s_1_0_0_cascade_=ltout:in2

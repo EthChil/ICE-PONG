@@ -1,0 +1,15 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\ethan\\Documents\\GrabCAD\\Altium Projs\\Basic FPGA\\Code\\PongDevBoard\\PongDevBoard_Implmnt\\synwork\\PongDevBoard_comp.srs|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-I|C:\\Users\\ethan\\Documents\\GrabCAD\\Altium Projs\\Basic FPGA\\Code\\PongDevBoard\\|-I|I:\\iCE_Cubed\\synpbase\\lib|-v2001|-devicelib|I:\\iCE_Cubed\\synpbase\\lib\\generic\\sb_ice40.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work"
+#CUR:"I:\\iCE_Cubed\\synpbase\\bin64\\c_ver.exe":1604279002
+#CUR:"I:\\iCE_Cubed\\synpbase\\lib\\generic\\sb_ice40.v":1604279007
+#CUR:"I:\\iCE_Cubed\\synpbase\\lib\\vlog\\hypermods.v":1604279010
+#CUR:"I:\\iCE_Cubed\\synpbase\\lib\\vlog\\umr_capim.v":1604279010
+#CUR:"I:\\iCE_Cubed\\synpbase\\lib\\vlog\\scemi_objects.v":1604279010
+#CUR:"I:\\iCE_Cubed\\synpbase\\lib\\vlog\\scemi_pipes.svh":1604279010
+#CUR:"C:\\Users\\ethan\\Documents\\GrabCAD\\Altium Projs\\Basic FPGA\\Code\\top.v":1607912484
+0			"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+#Dependency Lists(Users Of)
+0 -1
+#Design Unit to File Association
+module work top 0

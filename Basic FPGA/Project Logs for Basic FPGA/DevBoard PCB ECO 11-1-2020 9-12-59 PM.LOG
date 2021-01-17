@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetP3_12 Pin=U4-49
+Removed Pin From Net: NetName=NetP3_13 Pin=U4-50
+Removed Pin From Net: NetName=NetP3_11 Pin=U4-52
+Added Pin To Net: NetName=NetP3_11 Pin=U4-49
+Added Pin To Net: NetName=NetP3_12 Pin=U4-50
+Added Pin To Net: NetName=NetP3_13 Pin=U4-52
+Added Room: Name=Connectors
+Added Room: Name=FPGA
+Added Room: Name=FTDI
+Added Room: Name=Power Delievery

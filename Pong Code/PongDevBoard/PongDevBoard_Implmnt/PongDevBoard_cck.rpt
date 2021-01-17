@@ -1,0 +1,89 @@
+# Synopsys Constraint Checker, version maplat, Build 1612R, built Dec  5 2016
+# Copyright (C) 1994-2016 Synopsys, Inc. All rights reserved. This Synopsys software and all associated documentation are proprietary to Synopsys, Inc. and may only be used pursuant to the terms and conditions of a written license agreement with Synopsys, Inc. All other use, reproduction, modification, or distribution of the Synopsys software or the associated documentation is strictly prohibited.
+
+# Written on Sun Dec 13 21:21:29 2020
+
+
+##### DESIGN INFO #######################################################
+
+Top View:                "top"
+Constraint File(s):      "C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\cons.sdc"
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 2 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting     Ending     |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+-----------------------------------------------------------------------------------------------------------------------------------
+clk12        clk12      |     83.333           |     No paths         |     No paths         |     No paths                         
+===================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:p_dwnBtn
+p:p_hLED[0]
+p:p_hLED[1]
+p:p_hLED[2]
+p:p_hLED[3]
+p:p_hLED[4]
+p:p_hLED[5]
+p:p_hLED[6]
+p:p_hLED[7]
+p:p_hLED[8]
+p:p_hLED[9]
+p:p_hLED[10]
+p:p_hLED[11]
+p:p_hLED[12]
+p:p_hLED[13]
+p:p_hLED[14]
+p:p_upBtn
+p:p_vLED[0]
+p:p_vLED[1]
+p:p_vLED[2]
+p:p_vLED[3]
+p:p_vLED[4]
+p:p_vLED[5]
+p:p_vLED[6]
+p:p_vLED[7]
+p:p_vLED[8]
+p:p_vLED[9]
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report

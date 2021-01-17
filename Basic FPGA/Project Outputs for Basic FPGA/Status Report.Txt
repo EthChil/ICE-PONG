@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Basic FPGA.PrjPcb]
+   Generated File[Copy of ProductionBoard.TXT]
+   Generated File[Copy of ProductionBoard.LDP]
+   Generated File[Copy of ProductionBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:23:51 AM On 12/12/2020

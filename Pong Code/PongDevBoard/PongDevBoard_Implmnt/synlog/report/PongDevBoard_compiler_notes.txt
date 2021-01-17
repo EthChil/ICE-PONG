@@ -1,0 +1,21 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":3:7:3:9|Synthesizing module top in library work.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[0] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[1] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[2] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[3] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[4] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[5] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[6] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[7] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[8] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit p_vLED[9] is always 1.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit ballXVel[1] is always 0.
+@N: CL189 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":36:1:36:6|Register bit ballYVel[1] is always 0.
+@N: CL159 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":6:11:6:17|Input p_upBtn is unused.
+@N: CL159 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":7:11:7:18|Input p_dwnBtn is unused.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":3:7:3:9|Selected library: work cell: top view verilog as top level
+@N: NF107 :"C:\Users\ethan\Documents\GrabCAD\Altium Projs\Basic FPGA\Code\top.v":3:7:3:9|Selected library: work cell: top view verilog as top level
+

@@ -1,0 +1,680 @@
+Added Component: Designator=C34(CAP 0805_2012)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samsungsem.com/kr/support/product-search/mlcc/CL21A106KOQNNNG.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/samsung-electro-mechanics/CL21A106KOQNNNG/1276-6455-1-ND/5958083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/2/2020 1:04:35 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL21A106KOQNNNG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "6236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-6455-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.055" (1.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X13)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X16)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X15)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC1_2 Pin=C34-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD2_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD2_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD2_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD2_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD2_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD2_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD2_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD2_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD2_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD2_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD2_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD2_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD2_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD2_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_1 Pin=D18-1
+Added Pin To Net: NetName=NetD3_2 Pin=D18-2
+Added Pin To Net: NetName=NetD17_1 Pin=D19-1
+Added Pin To Net: NetName=NetD4_2 Pin=D19-2
+Added Pin To Net: NetName=NetD17_1 Pin=D20-1
+Added Pin To Net: NetName=NetD5_2 Pin=D20-2
+Added Pin To Net: NetName=NetD17_1 Pin=D21-1
+Added Pin To Net: NetName=NetD6_2 Pin=D21-2
+Added Pin To Net: NetName=NetD17_1 Pin=D22-1
+Added Pin To Net: NetName=NetD7_2 Pin=D22-2
+Added Pin To Net: NetName=NetD17_1 Pin=D23-1
+Added Pin To Net: NetName=NetD8_2 Pin=D23-2
+Added Pin To Net: NetName=NetD17_1 Pin=D24-1
+Added Pin To Net: NetName=NetD9_2 Pin=D24-2
+Added Pin To Net: NetName=NetD17_1 Pin=D25-1
+Added Pin To Net: NetName=NetD10_2 Pin=D25-2
+Added Pin To Net: NetName=NetD17_1 Pin=D26-1
+Added Pin To Net: NetName=NetD11_2 Pin=D26-2
+Added Pin To Net: NetName=NetD17_1 Pin=D27-1
+Added Pin To Net: NetName=NetD12_2 Pin=D27-2
+Added Pin To Net: NetName=NetD17_1 Pin=D28-1
+Added Pin To Net: NetName=NetD13_2 Pin=D28-2
+Added Pin To Net: NetName=NetD17_1 Pin=D29-1
+Added Pin To Net: NetName=NetD14_2 Pin=D29-2
+Added Pin To Net: NetName=NetD17_1 Pin=D30-1
+Added Pin To Net: NetName=NetD15_2 Pin=D30-2
+Added Pin To Net: NetName=NetD17_1 Pin=D31-1
+Added Pin To Net: NetName=NetD16_2 Pin=D31-2
+Added Pin To Net: NetName=NetD32_1 Pin=D32-1
+Added Pin To Net: NetName=NetD2_2 Pin=D32-2
+Added Pin To Net: NetName=NetD32_1 Pin=D33-1
+Added Pin To Net: NetName=NetD3_2 Pin=D33-2
+Added Pin To Net: NetName=NetD32_1 Pin=D34-1
+Added Pin To Net: NetName=NetD4_2 Pin=D34-2
+Added Pin To Net: NetName=NetD32_1 Pin=D35-1
+Added Pin To Net: NetName=NetD5_2 Pin=D35-2
+Added Pin To Net: NetName=NetD32_1 Pin=D36-1
+Added Pin To Net: NetName=NetD6_2 Pin=D36-2
+Added Pin To Net: NetName=NetD32_1 Pin=D37-1
+Added Pin To Net: NetName=NetD7_2 Pin=D37-2
+Added Pin To Net: NetName=NetD32_1 Pin=D38-1
+Added Pin To Net: NetName=NetD8_2 Pin=D38-2
+Added Pin To Net: NetName=NetD32_1 Pin=D39-1
+Added Pin To Net: NetName=NetD9_2 Pin=D39-2
+Added Pin To Net: NetName=NetD32_1 Pin=D40-1
+Added Pin To Net: NetName=NetD10_2 Pin=D40-2
+Added Pin To Net: NetName=NetD32_1 Pin=D41-1
+Added Pin To Net: NetName=NetD11_2 Pin=D41-2
+Added Pin To Net: NetName=NetD32_1 Pin=D42-1
+Added Pin To Net: NetName=NetD12_2 Pin=D42-2
+Added Pin To Net: NetName=NetD32_1 Pin=D43-1
+Added Pin To Net: NetName=NetD13_2 Pin=D43-2
+Added Pin To Net: NetName=NetD32_1 Pin=D44-1
+Added Pin To Net: NetName=NetD14_2 Pin=D44-2
+Added Pin To Net: NetName=NetD32_1 Pin=D45-1
+Added Pin To Net: NetName=NetD15_2 Pin=D45-2
+Added Pin To Net: NetName=NetD32_1 Pin=D46-1
+Added Pin To Net: NetName=NetD16_2 Pin=D46-2
+Added Pin To Net: NetName=NetD47_1 Pin=D47-1
+Added Pin To Net: NetName=NetD2_2 Pin=D47-2
+Added Pin To Net: NetName=NetD47_1 Pin=D48-1
+Added Pin To Net: NetName=NetD3_2 Pin=D48-2
+Added Pin To Net: NetName=NetD47_1 Pin=D49-1
+Added Pin To Net: NetName=NetD4_2 Pin=D49-2
+Added Pin To Net: NetName=NetD47_1 Pin=D50-1
+Added Pin To Net: NetName=NetD5_2 Pin=D50-2
+Added Pin To Net: NetName=NetD47_1 Pin=D51-1
+Added Pin To Net: NetName=NetD6_2 Pin=D51-2
+Added Pin To Net: NetName=NetD47_1 Pin=D52-1
+Added Pin To Net: NetName=NetD7_2 Pin=D52-2
+Added Pin To Net: NetName=NetD47_1 Pin=D53-1
+Added Pin To Net: NetName=NetD8_2 Pin=D53-2
+Added Pin To Net: NetName=NetD47_1 Pin=D54-1
+Added Pin To Net: NetName=NetD9_2 Pin=D54-2
+Added Pin To Net: NetName=NetD47_1 Pin=D55-1
+Added Pin To Net: NetName=NetD10_2 Pin=D55-2
+Added Pin To Net: NetName=NetD47_1 Pin=D56-1
+Added Pin To Net: NetName=NetD11_2 Pin=D56-2
+Added Pin To Net: NetName=NetD47_1 Pin=D57-1
+Added Pin To Net: NetName=NetD12_2 Pin=D57-2
+Added Pin To Net: NetName=NetD47_1 Pin=D58-1
+Added Pin To Net: NetName=NetD13_2 Pin=D58-2
+Added Pin To Net: NetName=NetD47_1 Pin=D59-1
+Added Pin To Net: NetName=NetD14_2 Pin=D59-2
+Added Pin To Net: NetName=NetD47_1 Pin=D60-1
+Added Pin To Net: NetName=NetD15_2 Pin=D60-2
+Added Pin To Net: NetName=NetD47_1 Pin=D61-1
+Added Pin To Net: NetName=NetD16_2 Pin=D61-2
+Added Pin To Net: NetName=NetD62_1 Pin=D62-1
+Added Pin To Net: NetName=NetD2_2 Pin=D62-2
+Added Pin To Net: NetName=NetD62_1 Pin=D63-1
+Added Pin To Net: NetName=NetD3_2 Pin=D63-2
+Added Pin To Net: NetName=NetD62_1 Pin=D64-1
+Added Pin To Net: NetName=NetD4_2 Pin=D64-2
+Added Pin To Net: NetName=NetD62_1 Pin=D65-1
+Added Pin To Net: NetName=NetD5_2 Pin=D65-2
+Added Pin To Net: NetName=NetD62_1 Pin=D66-1
+Added Pin To Net: NetName=NetD6_2 Pin=D66-2
+Added Pin To Net: NetName=NetD62_1 Pin=D67-1
+Added Pin To Net: NetName=NetD7_2 Pin=D67-2
+Added Pin To Net: NetName=NetD62_1 Pin=D68-1
+Added Pin To Net: NetName=NetD8_2 Pin=D68-2
+Added Pin To Net: NetName=NetD62_1 Pin=D69-1
+Added Pin To Net: NetName=NetD9_2 Pin=D69-2
+Added Pin To Net: NetName=NetD62_1 Pin=D70-1
+Added Pin To Net: NetName=NetD10_2 Pin=D70-2
+Added Pin To Net: NetName=NetD62_1 Pin=D71-1
+Added Pin To Net: NetName=NetD11_2 Pin=D71-2
+Added Pin To Net: NetName=NetD62_1 Pin=D72-1
+Added Pin To Net: NetName=NetD12_2 Pin=D72-2
+Added Pin To Net: NetName=NetD62_1 Pin=D73-1
+Added Pin To Net: NetName=NetD13_2 Pin=D73-2
+Added Pin To Net: NetName=NetD62_1 Pin=D74-1
+Added Pin To Net: NetName=NetD14_2 Pin=D74-2
+Added Pin To Net: NetName=NetD62_1 Pin=D75-1
+Added Pin To Net: NetName=NetD15_2 Pin=D75-2
+Added Pin To Net: NetName=NetD62_1 Pin=D76-1
+Added Pin To Net: NetName=NetD16_2 Pin=D76-2
+Added Pin To Net: NetName=NetD77_1 Pin=D77-1
+Added Pin To Net: NetName=NetD2_2 Pin=D77-2
+Added Pin To Net: NetName=NetD77_1 Pin=D78-1
+Added Pin To Net: NetName=NetD3_2 Pin=D78-2
+Added Pin To Net: NetName=NetD77_1 Pin=D79-1
+Added Pin To Net: NetName=NetD4_2 Pin=D79-2
+Added Pin To Net: NetName=NetD77_1 Pin=D80-1
+Added Pin To Net: NetName=NetD5_2 Pin=D80-2
+Added Pin To Net: NetName=NetD77_1 Pin=D81-1
+Added Pin To Net: NetName=NetD6_2 Pin=D81-2
+Added Pin To Net: NetName=NetD77_1 Pin=D82-1
+Added Pin To Net: NetName=NetD7_2 Pin=D82-2
+Added Pin To Net: NetName=NetD77_1 Pin=D83-1
+Added Pin To Net: NetName=NetD8_2 Pin=D83-2
+Added Pin To Net: NetName=NetD77_1 Pin=D84-1
+Added Pin To Net: NetName=NetD9_2 Pin=D84-2
+Added Pin To Net: NetName=NetD77_1 Pin=D85-1
+Added Pin To Net: NetName=NetD10_2 Pin=D85-2
+Added Pin To Net: NetName=NetD77_1 Pin=D86-1
+Added Pin To Net: NetName=NetD11_2 Pin=D86-2
+Added Pin To Net: NetName=NetD77_1 Pin=D87-1
+Added Pin To Net: NetName=NetD12_2 Pin=D87-2
+Added Pin To Net: NetName=NetD77_1 Pin=D88-1
+Added Pin To Net: NetName=NetD13_2 Pin=D88-2
+Added Pin To Net: NetName=NetD77_1 Pin=D89-1
+Added Pin To Net: NetName=NetD14_2 Pin=D89-2
+Added Pin To Net: NetName=NetD77_1 Pin=D90-1
+Added Pin To Net: NetName=NetD15_2 Pin=D90-2
+Added Pin To Net: NetName=NetD77_1 Pin=D91-1
+Added Pin To Net: NetName=NetD16_2 Pin=D91-2
+Added Pin To Net: NetName=NetD92_1 Pin=D92-1
+Added Pin To Net: NetName=NetD2_2 Pin=D92-2
+Added Pin To Net: NetName=NetD92_1 Pin=D93-1
+Added Pin To Net: NetName=NetD3_2 Pin=D93-2
+Added Pin To Net: NetName=NetD92_1 Pin=D94-1
+Added Pin To Net: NetName=NetD4_2 Pin=D94-2
+Added Pin To Net: NetName=NetD92_1 Pin=D95-1
+Added Pin To Net: NetName=NetD5_2 Pin=D95-2
+Added Pin To Net: NetName=NetD92_1 Pin=D96-1
+Added Pin To Net: NetName=NetD6_2 Pin=D96-2
+Added Pin To Net: NetName=NetD92_1 Pin=D97-1
+Added Pin To Net: NetName=NetD7_2 Pin=D97-2
+Added Pin To Net: NetName=NetD92_1 Pin=D98-1
+Added Pin To Net: NetName=NetD8_2 Pin=D98-2
+Added Pin To Net: NetName=NetD92_1 Pin=D99-1
+Added Pin To Net: NetName=NetD9_2 Pin=D99-2
+Added Pin To Net: NetName=NetD92_1 Pin=D100-1
+Added Pin To Net: NetName=NetD10_2 Pin=D100-2
+Added Pin To Net: NetName=NetD92_1 Pin=D101-1
+Added Pin To Net: NetName=NetD11_2 Pin=D101-2
+Added Pin To Net: NetName=NetD92_1 Pin=D102-1
+Added Pin To Net: NetName=NetD12_2 Pin=D102-2
+Added Pin To Net: NetName=NetD92_1 Pin=D103-1
+Added Pin To Net: NetName=NetD13_2 Pin=D103-2
+Added Pin To Net: NetName=NetD92_1 Pin=D104-1
+Added Pin To Net: NetName=NetD14_2 Pin=D104-2
+Added Pin To Net: NetName=NetD92_1 Pin=D105-1
+Added Pin To Net: NetName=NetD15_2 Pin=D105-2
+Added Pin To Net: NetName=NetD92_1 Pin=D106-1
+Added Pin To Net: NetName=NetD16_2 Pin=D106-2
+Added Pin To Net: NetName=NetD107_1 Pin=D107-1
+Added Pin To Net: NetName=NetD2_2 Pin=D107-2
+Added Pin To Net: NetName=NetD107_1 Pin=D108-1
+Added Pin To Net: NetName=NetD3_2 Pin=D108-2
+Added Pin To Net: NetName=NetD107_1 Pin=D109-1
+Added Pin To Net: NetName=NetD4_2 Pin=D109-2
+Added Pin To Net: NetName=NetD107_1 Pin=D110-1
+Added Pin To Net: NetName=NetD5_2 Pin=D110-2
+Added Pin To Net: NetName=NetD107_1 Pin=D111-1
+Added Pin To Net: NetName=NetD6_2 Pin=D111-2
+Added Pin To Net: NetName=NetD107_1 Pin=D112-1
+Added Pin To Net: NetName=NetD7_2 Pin=D112-2
+Added Pin To Net: NetName=NetD107_1 Pin=D113-1
+Added Pin To Net: NetName=NetD8_2 Pin=D113-2
+Added Pin To Net: NetName=NetD107_1 Pin=D114-1
+Added Pin To Net: NetName=NetD9_2 Pin=D114-2
+Added Pin To Net: NetName=NetD107_1 Pin=D115-1
+Added Pin To Net: NetName=NetD10_2 Pin=D115-2
+Added Pin To Net: NetName=NetD107_1 Pin=D116-1
+Added Pin To Net: NetName=NetD11_2 Pin=D116-2
+Added Pin To Net: NetName=NetD107_1 Pin=D117-1
+Added Pin To Net: NetName=NetD12_2 Pin=D117-2
+Added Pin To Net: NetName=NetD107_1 Pin=D118-1
+Added Pin To Net: NetName=NetD13_2 Pin=D118-2
+Added Pin To Net: NetName=NetD107_1 Pin=D119-1
+Added Pin To Net: NetName=NetD14_2 Pin=D119-2
+Added Pin To Net: NetName=NetD107_1 Pin=D120-1
+Added Pin To Net: NetName=NetD15_2 Pin=D120-2
+Added Pin To Net: NetName=NetD107_1 Pin=D121-1
+Added Pin To Net: NetName=NetD16_2 Pin=D121-2
+Added Pin To Net: NetName=NetD122_1 Pin=D122-1
+Added Pin To Net: NetName=NetD2_2 Pin=D122-2
+Added Pin To Net: NetName=NetD122_1 Pin=D123-1
+Added Pin To Net: NetName=NetD3_2 Pin=D123-2
+Added Pin To Net: NetName=NetD122_1 Pin=D124-1
+Added Pin To Net: NetName=NetD4_2 Pin=D124-2
+Added Pin To Net: NetName=NetD122_1 Pin=D125-1
+Added Pin To Net: NetName=NetD5_2 Pin=D125-2
+Added Pin To Net: NetName=NetD122_1 Pin=D126-1
+Added Pin To Net: NetName=NetD6_2 Pin=D126-2
+Added Pin To Net: NetName=NetD122_1 Pin=D127-1
+Added Pin To Net: NetName=NetD7_2 Pin=D127-2
+Added Pin To Net: NetName=NetD122_1 Pin=D128-1
+Added Pin To Net: NetName=NetD8_2 Pin=D128-2
+Added Pin To Net: NetName=NetD122_1 Pin=D129-1
+Added Pin To Net: NetName=NetD9_2 Pin=D129-2
+Added Pin To Net: NetName=NetD122_1 Pin=D130-1
+Added Pin To Net: NetName=NetD10_2 Pin=D130-2
+Added Pin To Net: NetName=NetD122_1 Pin=D131-1
+Added Pin To Net: NetName=NetD11_2 Pin=D131-2
+Added Pin To Net: NetName=NetD122_1 Pin=D132-1
+Added Pin To Net: NetName=NetD12_2 Pin=D132-2
+Added Pin To Net: NetName=NetD122_1 Pin=D133-1
+Added Pin To Net: NetName=NetD13_2 Pin=D133-2
+Added Pin To Net: NetName=NetD122_1 Pin=D134-1
+Added Pin To Net: NetName=NetD14_2 Pin=D134-2
+Added Pin To Net: NetName=NetD122_1 Pin=D135-1
+Added Pin To Net: NetName=NetD15_2 Pin=D135-2
+Added Pin To Net: NetName=NetD122_1 Pin=D136-1
+Added Pin To Net: NetName=NetD16_2 Pin=D136-2
+Added Pin To Net: NetName=NetD137_1 Pin=D137-1
+Added Pin To Net: NetName=NetD2_2 Pin=D137-2
+Added Pin To Net: NetName=NetD137_1 Pin=D138-1
+Added Pin To Net: NetName=NetD3_2 Pin=D138-2
+Added Pin To Net: NetName=NetD137_1 Pin=D139-1
+Added Pin To Net: NetName=NetD4_2 Pin=D139-2
+Added Pin To Net: NetName=NetD137_1 Pin=D140-1
+Added Pin To Net: NetName=NetD5_2 Pin=D140-2
+Added Pin To Net: NetName=NetD137_1 Pin=D141-1
+Added Pin To Net: NetName=NetD6_2 Pin=D141-2
+Added Pin To Net: NetName=NetD137_1 Pin=D142-1
+Added Pin To Net: NetName=NetD7_2 Pin=D142-2
+Added Pin To Net: NetName=NetD137_1 Pin=D143-1
+Added Pin To Net: NetName=NetD8_2 Pin=D143-2
+Added Pin To Net: NetName=NetD137_1 Pin=D144-1
+Added Pin To Net: NetName=NetD9_2 Pin=D144-2
+Added Pin To Net: NetName=NetD137_1 Pin=D145-1
+Added Pin To Net: NetName=NetD10_2 Pin=D145-2
+Added Pin To Net: NetName=NetD137_1 Pin=D146-1
+Added Pin To Net: NetName=NetD11_2 Pin=D146-2
+Added Pin To Net: NetName=NetD137_1 Pin=D147-1
+Added Pin To Net: NetName=NetD12_2 Pin=D147-2
+Added Pin To Net: NetName=NetD137_1 Pin=D148-1
+Added Pin To Net: NetName=NetD13_2 Pin=D148-2
+Added Pin To Net: NetName=NetD137_1 Pin=D149-1
+Added Pin To Net: NetName=NetD14_2 Pin=D149-2
+Added Pin To Net: NetName=NetD137_1 Pin=D150-1
+Added Pin To Net: NetName=NetD15_2 Pin=D150-2
+Added Pin To Net: NetName=NetD137_1 Pin=D151-1
+Added Pin To Net: NetName=NetD16_2 Pin=D151-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_8 Pin=P1-8
+Added Pin To Net: NetName=NetP1_9 Pin=P1-9
+Added Pin To Net: NetName=NetP1_10 Pin=P1-10
+Added Pin To Net: NetName=NetP1_11 Pin=P1-11
+Added Pin To Net: NetName=NetP1_12 Pin=P1-12
+Added Pin To Net: NetName=NetP1_13 Pin=P1-13
+Added Pin To Net: NetName=NetD2_1 Pin=P2-1
+Added Pin To Net: NetName=NetD17_1 Pin=P2-2
+Added Pin To Net: NetName=NetD32_1 Pin=P2-3
+Added Pin To Net: NetName=NetD47_1 Pin=P2-4
+Added Pin To Net: NetName=NetD62_1 Pin=P2-5
+Added Pin To Net: NetName=NetD77_1 Pin=P2-6
+Added Pin To Net: NetName=NetD92_1 Pin=P2-7
+Added Pin To Net: NetName=NetD107_1 Pin=P2-8
+Added Pin To Net: NetName=NetD122_1 Pin=P2-9
+Added Pin To Net: NetName=NetD137_1 Pin=P2-10
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=NetP3_7 Pin=P3-7
+Added Pin To Net: NetName=NetP3_8 Pin=P3-8
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Pin To Net: NetName=NetP3_10 Pin=P3-10
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_5 Pin=P4-5
+Added Pin To Net: NetName=NetP4_6 Pin=P4-6
+Added Pin To Net: NetName=NetP4_7 Pin=P4-7
+Added Pin To Net: NetName=NetP4_8 Pin=P4-8
+Added Pin To Net: NetName=NetP4_9 Pin=P4-9
+Added Pin To Net: NetName=NetP4_10 Pin=P4-10
+Added Pin To Net: NetName=NetP4_11 Pin=P4-11
+Added Pin To Net: NetName=NetP4_12 Pin=P4-12
+Added Pin To Net: NetName=NetP4_13 Pin=P4-13
+Added Pin To Net: NetName=NetP4_14 Pin=P4-14
+Added Pin To Net: NetName=NetP4_15 Pin=P4-15
+Added Pin To Net: NetName=NetP4_16 Pin=P4-16
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_5 Pin=P5-5
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Pin To Net: NetName=NetP5_7 Pin=P5-7
+Added Pin To Net: NetName=NetP5_8 Pin=P5-8
+Added Pin To Net: NetName=NetP5_9 Pin=P5-9
+Added Pin To Net: NetName=NetP5_10 Pin=P5-10
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_5 Pin=P6-5
+Added Pin To Net: NetName=NetP6_6 Pin=P6-6
+Added Pin To Net: NetName=NetP6_7 Pin=P6-7
+Added Pin To Net: NetName=NetP6_8 Pin=P6-8
+Added Pin To Net: NetName=NetP6_9 Pin=P6-9
+Added Pin To Net: NetName=NetP6_10 Pin=P6-10
+Added Pin To Net: NetName=NetP6_11 Pin=P6-11
+Added Pin To Net: NetName=NetP6_12 Pin=P6-12
+Added Pin To Net: NetName=NetP6_13 Pin=P6-13
+Added Pin To Net: NetName=NetP6_14 Pin=P6-14
+Added Pin To Net: NetName=NetP6_15 Pin=P6-15
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_4 Pin=P7-4
+Added Pin To Net: NetName=NetP7_5 Pin=P7-5
+Added Pin To Net: NetName=NetP7_6 Pin=P7-6
+Added Pin To Net: NetName=NetP7_7 Pin=P7-7
+Added Pin To Net: NetName=NetP7_8 Pin=P7-8
+Added Pin To Net: NetName=NetP7_9 Pin=P7-9
+Added Pin To Net: NetName=NetP7_10 Pin=P7-10
+Added Pin To Net: NetName=NetP6_15 Pin=P8-1
+Added Pin To Net: NetName=NetP6_14 Pin=P8-2
+Added Pin To Net: NetName=NetP6_13 Pin=P8-3
+Added Pin To Net: NetName=NetP6_12 Pin=P8-4
+Added Pin To Net: NetName=NetP6_11 Pin=P8-5
+Added Pin To Net: NetName=NetP6_10 Pin=P8-6
+Added Pin To Net: NetName=NetP6_9 Pin=P8-7
+Added Pin To Net: NetName=NetP6_8 Pin=P8-8
+Added Pin To Net: NetName=NetP6_7 Pin=P8-9
+Added Pin To Net: NetName=NetP6_6 Pin=P8-10
+Added Pin To Net: NetName=NetP6_5 Pin=P8-11
+Added Pin To Net: NetName=NetP6_4 Pin=P8-12
+Added Pin To Net: NetName=NetP6_3 Pin=P8-13
+Added Pin To Net: NetName=NetP6_2 Pin=P8-14
+Added Pin To Net: NetName=NetP6_1 Pin=P8-15
+Added Pin To Net: NetName=NetD2_1 Pin=P9-1
+Added Pin To Net: NetName=NetD17_1 Pin=P9-2
+Added Pin To Net: NetName=NetD32_1 Pin=P9-3
+Added Pin To Net: NetName=NetD47_1 Pin=P9-4
+Added Pin To Net: NetName=NetD62_1 Pin=P9-5
+Added Pin To Net: NetName=NetD77_1 Pin=P9-6
+Added Pin To Net: NetName=NetD92_1 Pin=P9-7
+Added Pin To Net: NetName=NetD107_1 Pin=P9-8
+Added Pin To Net: NetName=NetD122_1 Pin=P9-9
+Added Pin To Net: NetName=NetD137_1 Pin=P9-10
+Added Pin To Net: NetName=NetD2_2 Pin=R35-1
+Added Pin To Net: NetName=NetP6_1 Pin=R35-2
+Added Pin To Net: NetName=NetD3_2 Pin=R36-1
+Added Pin To Net: NetName=NetP6_2 Pin=R36-2
+Added Pin To Net: NetName=NetD4_2 Pin=R37-1
+Added Pin To Net: NetName=NetP6_3 Pin=R37-2
+Added Pin To Net: NetName=NetD5_2 Pin=R38-1
+Added Pin To Net: NetName=NetP6_4 Pin=R38-2
+Added Pin To Net: NetName=NetD6_2 Pin=R39-1
+Added Pin To Net: NetName=NetP6_5 Pin=R39-2
+Added Pin To Net: NetName=NetD7_2 Pin=R40-1
+Added Pin To Net: NetName=NetP6_6 Pin=R40-2
+Added Pin To Net: NetName=NetD8_2 Pin=R41-1
+Added Pin To Net: NetName=NetP6_7 Pin=R41-2
+Added Pin To Net: NetName=NetD9_2 Pin=R42-1
+Added Pin To Net: NetName=NetP6_8 Pin=R42-2
+Added Pin To Net: NetName=NetD10_2 Pin=R43-1
+Added Pin To Net: NetName=NetP6_9 Pin=R43-2
+Added Pin To Net: NetName=NetD11_2 Pin=R44-1
+Added Pin To Net: NetName=NetP6_10 Pin=R44-2
+Added Pin To Net: NetName=NetD12_2 Pin=R45-1
+Added Pin To Net: NetName=NetP6_11 Pin=R45-2
+Added Pin To Net: NetName=NetD13_2 Pin=R46-1
+Added Pin To Net: NetName=NetP6_12 Pin=R46-2
+Added Pin To Net: NetName=NetD14_2 Pin=R47-1
+Added Pin To Net: NetName=NetP6_13 Pin=R47-2
+Added Pin To Net: NetName=NetD15_2 Pin=R48-1
+Added Pin To Net: NetName=NetP6_14 Pin=R48-2
+Added Pin To Net: NetName=NetD16_2 Pin=R49-1
+Added Pin To Net: NetName=NetP6_15 Pin=R49-2
+Added Member To Class: ClassName=FPGA Member=Component C34 10µF
+Added Member To Class: ClassName=Peripherals Member=Component D2 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D3 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D4 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D5 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D6 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D7 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D8 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D9 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D10 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D11 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D12 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D13 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D14 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D15 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D16 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D17 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D18 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D19 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D20 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D21 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D22 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D23 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D24 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D25 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D26 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D27 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D28 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D29 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D30 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D31 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D32 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D33 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D34 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D35 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D36 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D37 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D38 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D39 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D40 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D41 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D42 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D43 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D44 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D45 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D46 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D47 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D48 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D49 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D50 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D51 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D52 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D53 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D54 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D55 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D56 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D57 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D58 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D59 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D60 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D61 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D62 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D63 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D64 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D65 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D66 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D67 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D68 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D69 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D70 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D71 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D72 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D73 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D74 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D75 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D76 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D77 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D78 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D79 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D80 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D81 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D82 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D83 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D84 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D85 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D86 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D87 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D88 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D89 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D90 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D91 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D92 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D93 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D94 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D95 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D96 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D97 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D98 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D99 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D100 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D101 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D102 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D103 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D104 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D105 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D106 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D107 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D108 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D109 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D110 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D111 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D112 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D113 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D114 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D115 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D116 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D117 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D118 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D119 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D120 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D121 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D122 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D123 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D124 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D125 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D126 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D127 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D128 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D129 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D130 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D131 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D132 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D133 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D134 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D135 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D136 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D137 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D138 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D139 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D140 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D141 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D142 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D143 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D144 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D145 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D146 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D147 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D148 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D149 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D150 Yellow
+Added Member To Class: ClassName=Peripherals Member=Component D151 Yellow
+Added Member To Class: ClassName=Connectors Member=Component P1 Header 13
+Added Member To Class: ClassName=Connectors Member=Component P2 Header 10
+Added Member To Class: ClassName=Connectors Member=Component P3 Header 10
+Added Member To Class: ClassName=Connectors Member=Component P4 Header 16
+Added Member To Class: ClassName=Connectors Member=Component P5 Header 10
+Added Member To Class: ClassName=Connectors Member=Component P6 Header 15
+Added Member To Class: ClassName=Connectors Member=Component P7 Header 10
+Added Member To Class: ClassName=Peripherals Member=Component P8 Header 15
+Added Member To Class: ClassName=Peripherals Member=Component P9 Header 10
+Added Member To Class: ClassName=FTDI Member=Component R14 0 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R35 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R36 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R37 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R38 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R39 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R40 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R41 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R42 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R43 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R44 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R45 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R46 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R47 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R48 68 Ohms
+Added Member To Class: ClassName=Peripherals Member=Component R49 68 Ohms
+Added Member To Class: ClassName=FPGA Member=Component U4 ICE40HX1K-TQ144
+Added Room: Name=Connectors
+Added Room: Name=FPGA
+Added Room: Name=FTDI
+Added Room: Name=Peripherals
+Added Room: Name=Power Delievery

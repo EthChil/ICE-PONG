@@ -1,0 +1,7 @@
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance vIndex[3:0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance ballY[3:0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance ballX[3:0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance hIndex[3:0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance ctr[18:0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance ballYVel[0] is being ignored. 
+@W: FX1039 :"c:\users\ethan\documents\grabcad\altium projs\basic fpga\code\top.v":36:1:36:6|User-specified initial value defined for instance ballXVel[0] is being ignored. 
