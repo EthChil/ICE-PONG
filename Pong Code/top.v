@@ -1,17 +1,18 @@
-
-
-module top(
+module Top(
 input wire p_clk12,
 
-input wire p_upBtn,
-input wire p_dwnBtn,
+input wire p_upBtn_p1,
+input wire p_dwnBtn_p1,
+
+input wire p_upBtn_p2,
+input wire p_dwnBtn_p2,
 
 output reg [14:0]p_hLED,
 output reg [9:0]p_vLED);
 
-	//MAX 14
+	//MAX 14 display width
 	parameter WIDTH = 4'd14; //15
-	//MAX 9
+	//MAX 9 display height
 	parameter HEIGHT = 4'd9; //9
 
 	parameter POS = 2'd0;
@@ -32,8 +33,12 @@ output reg [9:0]p_vLED);
 	reg [3:0]ballY = 0;
 	reg [1:0]ballXVel = 0;
 	reg [1:0]ballYVel = 0;
+	
+	reg [3:0] paddleY_p1 = 0;
+	reg [3:0] paddleY_p2 = 0;
 
 	always @(posedge p_clk12) begin
+	        //Draws the display
 			if(hIndex == WIDTH & vIndex == HEIGHT) begin
 				hIndex <= 0;
 				vIndex <= 0;
@@ -43,7 +48,8 @@ output reg [9:0]p_vLED);
 			end else
 				hIndex <= hIndex + 1;
 				
-			if(hIndex == ballX)
+	        //Draw ball and paddles
+			if(hIndex == ballX | hIndex == 0 | hIndex == WIDTH)
 			case(hIndex)
 				4'd0:
 					p_hLED <= 15'bzzzzzzzzzzzzzz0;
@@ -58,11 +64,11 @@ output reg [9:0]p_vLED);
 				4'd5:
 					p_hLED <= 15'bzzzzzzzzz0zzzzz;
 				4'd6:
-					p_hLED <= 15'bzzzzzzzz0zzzzzz; //fucking up
+					p_hLED <= 15'bzzzzzzzz0zzzzzz; //poorly reflowed LED (dead pixel)
 				4'd7:
 					p_hLED <= 15'bzzzzzzz0zzzzzzz;
 				4'd8:
-					p_hLED <= 15'bzzzzzz0zzzzzzzz; //fucking up
+					p_hLED <= 15'bzzzzzz0zzzzzzzz; //poorly reflowed LED (dead pixel)
 				4'd9:
 					p_hLED <= 15'bzzzzz0zzzzzzzzz;
 				4'd10:
@@ -80,7 +86,9 @@ output reg [9:0]p_vLED);
 			endcase
 					
 
-			if(vIndex == ballY)
+			if(vIndex == ballY | 
+			vIndex >= paddleY_p1-1 | vIndex <= paddleY_p1+1 |
+			vIndex >= paddleY_p2-1 | vIndex <= paddleY_p2+1)
 			case(vIndex)
 				4'd0:
 					p_vLED <= 10'bzzzzzzzzz1;
@@ -108,15 +116,39 @@ output reg [9:0]p_vLED);
 
 		if(&ctr) begin
 
-			if(ballX == 1)
+            //Ball paddle / wall collisions
+			if(ballX == 1 & ballY >= (paddleY_p1-1) & ballY >= (paddleY_p1+1))
 				ballXVel <= POS;
-			if(ballY == 1)
-				ballYVel <= POS;
-			if(ballX == (WIDTH-1))
+		    else if(ballX == 1) fork //out of bounds
+		        ballX <= 7;
+		        ballY <= 5;
+		    join
+		    
+			if(ballX == (WIDTH-1) & ballY >= (paddleY_p2-1) & ballY >= (paddleY_p2+1))
 				ballXVel <= NEG;
+		    else if(ballX == (WIDTH-1)) fork //out of bounds
+		        ballX <= 7;
+		        ballY <= 5;
+		    join
+		    
+		    //Vertical ball collision handling
 			if(ballY == (HEIGHT-1))
 				ballYVel <= NEG;
-
+		    if(ballY == 1)
+				ballYVel <= POS;
+		      
+		    //Paddle movement logic
+			if(paddleY_p1 <= (HEIGHT-1) & p_upBtn_p1)
+			    paddleY_p1 <= paddleY_p1 + 1;
+			if(paddleY_p1 >= 1 & p_dwnBtn_p1)
+			    paddleY_p1 <= paddleY_p1 - 1;
+			    
+			if(paddleY_p2 <= (HEIGHT-1) & p_upBtn_p2)
+			    paddleY_p2 <= paddleY_p2 + 1;
+			if(paddleY_p2 >= 1 & p_dwnBtn_p2)
+			    paddleY_p2 <= paddleY_p2 - 1;
+			     
+            //Ball animation
 			if(ballYVel == POS)
 				ballY <= ballY + 1;
 			else if(ballYVel == NEG)
